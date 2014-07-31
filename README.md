@@ -1,0 +1,4 @@
+myGo
+====
+
+first go project
